@@ -4,7 +4,7 @@ A brand new skin for phpvms based on Materialise.
 HOW TO INSTALL:
 
 STEP 1 :
-Run "query.sql" on your server using PhpMyAdmin Import function.
+Download and install https://github.com/web541/phpVMS-FltbookSystem-v2 and then run "query.sql" on your server using PhpMyAdmin Import function.
 
 STEP 2 :
 Copy the files to your phpvms root folder.
